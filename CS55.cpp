@@ -11,6 +11,6 @@ int main(){
   cout <<"Enter number of kilometers: ";
   cin >> km;
   miles = 0.621371 * km;
-  cout << "Covert kilmeters to miles: " << miles << endl;
+  cout << "Convert kilmeters to miles: " << miles << endl;
   return 0;
 }
