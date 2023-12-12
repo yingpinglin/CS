@@ -2,7 +2,8 @@
 //Email: yingping.lin69@myhunter.cuny.edu 
 //Date: Dec 5, 2023 
 //This program prints program 55
-    
+//Write a C++ program that converts kilometers to miles. Your program should prompt the user for the number of kilometers and then print out the number of miles.
+//A useful formula: miles = 0.621371* kilometers.    
 #include <iostream>
 using namespace std;
 
