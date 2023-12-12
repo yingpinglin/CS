@@ -1,7 +1,5 @@
 //Name: Ying Ping Lin 
 //Email: yingping.lin69@myhunter.cuny.edu 
-//Date: Dec 4, 2023 
-//This program prints program 53
 //Write a C++ program that prints "Hello, World!" and "Hello, C++!" in two separate lines to the screen.   
 
 #include <iostream>               //header file:performs input and output operations in C++ (<>=system header file)
