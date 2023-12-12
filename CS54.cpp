@@ -1,7 +1,5 @@
 //Name: Ying Ping Lin 
 //Email: yingping.lin69@myhunter.cuny.edu 
-//Date: Dec 5, 2023 
-//This program prints program 54
 //Write a C++ program that will print "Mihi cura futuri" 10 times.
 
 // The output of your program should be:
@@ -14,7 +12,8 @@
 // Mihi cura futuri
 // Mihi cura futuri
 // Mihi cura futuri
-// Mihi cura futuri    
+// Mihi cura futuri   
+
 #include <iostream> //necessary header file iostream, provides input/output stream functionality in C++
 using namespace std; //allows us to use standard library functions and objects
 
