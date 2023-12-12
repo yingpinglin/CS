@@ -1,7 +1,5 @@
 //Name: Ying Ping Lin 
 //Email: yingping.lin69@myhunter.cuny.edu 
-//Date: Dec 11, 2023 
-//This program prints program 60
 // Write a C++ program that asks the user for a whole number between -31 and 31 and prints out the number in "two's complement" notation, using the following algorithm:
 // 1)Ask the user for a number, n.
 // 2)If the number is negative, print a 1 and let x = 32 + n.
@@ -19,6 +17,7 @@
 // Another run:
 // Enter a number: -1
 // 111111
+
 #include <iostream>
 using namespace std;
 
@@ -37,7 +36,7 @@ int main()
     {
         cout << "0";
     }
-
+    
     int b = 16;
     while (b > 0.5)
     {
