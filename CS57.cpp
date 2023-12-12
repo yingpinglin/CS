@@ -1,3 +1,22 @@
+//Name: Ying Ping Lin 
+//Email: yingping.lin69@myhunter.cuny.edu 
+//Date: Dec 8, 2023 
+//This program prints program 57
+//Write a C++ program that asks the user for the month of the year (as a number), and prints
+// "Happy Winter" if it is strictly before 3 or strictly larger than 11,
+// "Happy Spring" if it is 3 or greater, but strictly before 7, and
+// "Happy Summer" if it is 7 or greater, but strictly before 9, and
+// "Happy Fall" otherwise.
+    
+// A sample run:
+// Enter month (as a number):  12
+// Happy Winter
+// Another sample run:
+// Enter month (as a number):  8
+// Happy Summer
+// And another run:
+// Enter month (as a number):  11
+// Happy Fall
 #include <iostream>
 
 using namespace std;
